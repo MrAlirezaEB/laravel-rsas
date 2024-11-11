@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Alireeza\LaravelRsas\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelRsasCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-rsas';
 
     public $description = 'My command';
 
