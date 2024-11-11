@@ -2,9 +2,9 @@
 
 namespace Alireeza\LaravelRsas;
 
+use Alireeza\LaravelRsas\Commands\LaravelRsasCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Alireeza\LaravelRsas\Commands\LaravelRsasCommand;
 
 class LaravelRsasServiceProvider extends PackageServiceProvider
 {
