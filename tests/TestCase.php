@@ -2,9 +2,9 @@
 
 namespace Alireeza\LaravelRsas\Tests;
 
+use Alireeza\LaravelRsas\LaravelRsasServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Alireeza\LaravelRsas\LaravelRsasServiceProvider;
 
 class TestCase extends Orchestra
 {
